@@ -1,18 +1,9 @@
 # syilx digital heritage at Westbank First Nation
-Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
-Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
+Add a description here
 
 ## Live links (replace with your own)
 - Leaflet Map https://wfndigitalheritage.github.io/storymap/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1W9A-3kVfQSdCSgqcwmnowFpi21w4NuaK6327q4gPn1o/edit#gid=0
-
-## Create Your Own
-- See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
-
-#### Geocode your address data with Google Sheets add-on
-To geocode (find latitude and longitude coordinates), we recommend installing the free [Geocoding by SmartMonkey add-on for Google Sheets](https://gsuite.google.com/marketplace/app/geocoding_by_smartmonkey/1033231575312). Insert your addresses in place of the samples in the Geocoding Details tab, then use Add-Ons > Geocoding > Geocode Details menu. Learn more in *Hands-On Data Visualization* https://handsondataviz.org/geocode.html
-
-![Geocoding](geocode.png)
 
 #### To finalize your map, you need to either:
 - Download each Google Sheets tab as a CSV file and upload into a `csv` subfolder in your GitHub repo
@@ -24,9 +15,9 @@ See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-googl
 Email us at [HandsOnDataViz@gmail.com](handsondataviz@gmail.com) if you need assistance with updating your code.
 
 ## Credits (and licenses)
-Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Connecticut Humanities and Trinity College, CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html.
+Based on handsondataviz.org developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Connecticut Humanities and Trinity College, CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html.
 
-We use [Google Sheets API version 4](https://developers.google.com/sheets/api), with these open-source components:
+Template uses [Google Sheets API version 4](https://developers.google.com/sheets/api), with these open-source components:
 
 - Leaflet v1.7.1 https://leafletjs.com (BSD-2-Clause)
 - jQuery v3.5.1 https://code.jquery.com (MIT)
