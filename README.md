@@ -1,7 +1,7 @@
 # syilx digital heritage at Westbank First Nation
 Add a description here
 
-## Live links (replace with your own)
+## Live links
 - Leaflet Map https://wfndigitalheritage.github.io/storymap/
 - Google Sheets template https://docs.google.com/spreadsheets/d/1W9A-3kVfQSdCSgqcwmnowFpi21w4NuaK6327q4gPn1o/edit#gid=0
 
