@@ -1,4 +1,4 @@
-# syilx digital heritage at Westbank First Nation
+# Westbank First Nation Digital Heritage
 Add a description here
 
 ## Live links
