@@ -1,4 +1,4 @@
-# Westbank First Nation Digital Heritage
+# Connecting Past to Present: Westbank First Nation Digital Heritage
 Add a description here
 
 ## Live links
